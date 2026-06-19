@@ -1,12 +1,12 @@
-# URL Shortener
+#URL Shortener
 Simple URL shortening service.
-## Features
+##Features
 - Custom short URLs
 - QR code generation
 - Click analytics
 - API access
 - Redirect tracking
-## Tech Stack
+##Tech Stack
 - Go
 - Redis
 - PostgreSQL
