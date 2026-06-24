@@ -8,7 +8,6 @@ Simple URL shortening service.
 - Redirect tracking
 ##Tech Stack
 - Go
-- Redis
 - PostgreSQL
 - Docker
 ## License
