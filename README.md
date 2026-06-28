@@ -7,7 +7,7 @@ Simple URL shortening service.
 - API access
 - Redirect tracking
 ##Tech Stack
-- PostgreSQL
-- Docker
+  PostgreSQL
+  Docker
 ## License
 MIT
