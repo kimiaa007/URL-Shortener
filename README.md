@@ -3,7 +3,7 @@ Simple URL shortening service.
 ##Features
 - Custom short URLs
 - QR code##generation
-- Click analytics
+- analytics
 - API access
 - Redirect tracking
 ##Tech Stack
