@@ -4,7 +4,6 @@ Simple URL shortening service.
 - Custom short URLs
 - QR code##generation
 - analytics
-- API access
 - Redirect tracking
 ##Tech Stack
   PostgreSQL
