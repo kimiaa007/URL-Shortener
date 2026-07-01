@@ -8,5 +8,3 @@ Simple URL shortening service.
 ##Tech Stack
   PostgreSQL
   Docker
-## License
-MIT
