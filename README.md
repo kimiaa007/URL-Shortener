@@ -6,4 +6,3 @@ Simple URL shortening service.
 - Redirect tracking
 ##Tech Stack
   PostgreSQL
-  Docker
