@@ -5,4 +5,4 @@ Simple URL shortening service.
 - analytics
 - Redirect tracking
 ##Tech 
-  PostgreSQL
+  Postgre
