@@ -4,5 +4,4 @@ Simple URL shortening service.
 - QR code##generation
 - analytics
 - Redirect tracking
-##Tech 
   Postgr
